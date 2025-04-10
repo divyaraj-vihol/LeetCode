@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyaraj-vihol/GitHub/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/divyaraj-vihol/GitHub/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
