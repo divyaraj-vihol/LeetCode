@@ -12,10 +12,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyaraj-vihol/GitHub/tree/master/0001-two-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/divyaraj-vihol/GitHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/divyaraj-vihol/GitHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyaraj-vihol/GitHub/tree/master/0001-two-sum) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/divyaraj-vihol/GitHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
 |  |
 | ------- |
