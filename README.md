@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/divyaraj-vihol/GitHub/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/divyaraj-vihol/GitHub/tree/master/0595-big-countries) |
 | [1317-monthly-transactions-i](https://github.com/divyaraj-vihol/GitHub/tree/master/1317-monthly-transactions-i) |
 ## Two Pointers
 |  |
