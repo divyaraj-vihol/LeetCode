@@ -24,6 +24,7 @@
 | [0176-second-highest-salary](https://github.com/divyaraj-vihol/GitHub/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/divyaraj-vihol/GitHub/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/divyaraj-vihol/GitHub/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/divyaraj-vihol/GitHub/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/divyaraj-vihol/GitHub/tree/master/1317-monthly-transactions-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/divyaraj-vihol/GitHub/tree/master/1908-recyclable-and-low-fat-products) |
 ## Two Pointers
