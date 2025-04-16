@@ -28,6 +28,7 @@
 | [1317-monthly-transactions-i](https://github.com/divyaraj-vihol/GitHub/tree/master/1317-monthly-transactions-i) |
 | [1827-invalid-tweets](https://github.com/divyaraj-vihol/GitHub/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/divyaraj-vihol/GitHub/tree/master/1908-recyclable-and-low-fat-products) |
+| [2024-calculate-special-bonus](https://github.com/divyaraj-vihol/GitHub/tree/master/2024-calculate-special-bonus) |
 ## Two Pointers
 |  |
 | ------- |
