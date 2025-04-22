@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyaraj-vihol/GitHub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/divyaraj-vihol/GitHub/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/divyaraj-vihol/GitHub/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/divyaraj-vihol/GitHub/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyaraj-vihol/GitHub/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/divyaraj-vihol/GitHub/tree/master/0013-roman-to-integer) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/divyaraj-vihol/GitHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
 |  |
@@ -41,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divyaraj-vihol/GitHub/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/divyaraj-vihol/GitHub/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/divyaraj-vihol/GitHub/tree/master/1894-merge-strings-alternately) |
 ## Linked List
